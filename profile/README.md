@@ -1,4 +1,4 @@
-<img alt="CHIPS Alliance Logo" src="https://chipsalliance.org/wp-content/uploads/sites/83/2019/04/chips_alliance-color.png" height=100>
+<img alt="CHIPS Alliance Logo" src="https://github.com/chipsalliance/.github/blob/main/profile/images/chips_alliance.svg" height=100>
 
  :link:&nbsp;[chipsalliance.org](https://chipsalliance.org/) | :mailbox:&nbsp;[info@chipsalliance.org](mailto:info@chipsalliance.org)
 
