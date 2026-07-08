@@ -6,4 +6,4 @@
 
 ----
 
-The CHIPS Alliance hosts multiple open source [Projects](https://www.chipsalliance.org/projects/), which are [Workgroups](https://chipsalliance.org/workgroups/).
+The CHIPS Alliance hosts multiple open source [Projects](https://www.chipsalliance.org/projects/).
